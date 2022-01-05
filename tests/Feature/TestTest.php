@@ -9,7 +9,3 @@ testovaya vetca commit2
 
 4444444444
 
-
-testovaya vetca commit
-
-testovaya vetca commit2
