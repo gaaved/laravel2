@@ -41,7 +41,7 @@ const app = new Vue({
         axios.get('/skills').then(response => this.skills = response.data);
 
 
-        gghhhh2224444455556666
+        gghhhh2224444455556666777777888
     }
 });
 
